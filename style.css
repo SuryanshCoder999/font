@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.heading{
+    font-size: 30px;
+    color: black;
+    background-color: greenyellow;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 5px;
+}
+
+.no{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    color:greenyellow;
+    font-family: 'Tektur', cursive;
+}
+
+canvas{
+    border: 5px dashed yellowgreen;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
